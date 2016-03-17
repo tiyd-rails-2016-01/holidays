@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  celebrated_on: 2016-03-17
+  name: MyString
+  origin: MyString
+
+two:
+  celebrated_on: 2016-03-17
+  name: MyString
+  origin: MyString
